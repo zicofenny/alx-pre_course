@@ -1,1 +1,1 @@
-My first readme
+school is amazing
